@@ -21,5 +21,8 @@ En esta oportunidad, nuestra propuesta es un chatbot que funciona a través árb
 * Portillo Delgado Hannu
 * Borjas Córdova Guillermo Joel
 
-### Enlaces
-* 
+### Enlaces a los informes
+* Parte 1 (en construcción)
+* Parte 2 (en construcción)
+* Parte 3 (en construcción)
+* Parte 4 (en construcción)
