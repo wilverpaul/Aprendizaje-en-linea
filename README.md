@@ -14,7 +14,7 @@ En la mayoría de los casos, los chatbots se pueden utilizar para dar conferenci
 
 Por otro lado, las nuevas propuestas quieren que los chatbots funcionen como tutores verticales y que participen en un diálogo con cada alumno. Así, pueden conocerlos y saber en qué temas necesitan ayuda.
 
-En esta oportunidad, nuestra propuesta es un chatbot que funciona a través árboles de decisión y que sea una guía para futuros desarrollos de chatbots con inteligencia artificial en el campo del aprendizaje en línea
+En esta oportunidad, nuestra propuesta es un chatbot que funciona a través árboles de decisión y que sea una guía para futuros desarrollos de chatbots con inteligencia artificial en el campo del aprendizaje en línea, así como un sistema de tutoría que ayude al estudiante a encontrar eficientemente tutoriales en línea acorde con el tema de la materia buscada.
 
 ### Integrantes
 * Moscol Durand Carlos Enrique
