@@ -1,7 +1,7 @@
 # Aprendizaje-en-linea
 Sistema de enseñanza para el aprendizaje en línea
 
-## Descripcióm del Problema
+## Descripción del Problema
 Es sabido por muchos y durante bastante tiempo que cada estudiante es diferente en su manera de aprender, distintas formas y métodos en captar las ideas que se desea que adquieran e incluso difieren entre materia y materia debido al interés que pueden tener sobre éstas. Por tanto, una posible solución sería que cada estudiante cuente con la ayuda de un tutor especializado.
 
 Desafortunadamente, este tipo de servicio no es factible y no está disponible ni siquiera en las universidades más caras del mundo.
