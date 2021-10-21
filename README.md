@@ -20,6 +20,7 @@ En esta oportunidad, nuestra propuesta de solución es un chatbot que funciona a
 * Moscol Durand Carlos Enrique
 * Portillo Delgado Hannu
 * Borjas Córdova Guillermo Joel
+* Yaranga Santé Julio César
 
 ### Enlaces a los informes
 * Parte 1 (en construcción)
